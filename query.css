@@ -1,0 +1,223 @@
+@media (max-width: 1100px){
+   #heading{
+   	width: 100%;
+   }
+   nav{
+   	width: 100%;
+   }
+   #home .shadow h2{
+   	  margin-left: -55px;
+   }
+
+   p{
+   	   font-size: 1.2em;
+   }
+
+   #text{
+   	font-size: 1.7em;
+   }
+   .contents{
+   	float: left;
+   	text-align: center;
+   	width: 100%;
+   }
+  .contents p{
+	line-height: 1.6em;
+	font-size: 1.4em;
+  }
+
+  ul.contents-ul li{
+  	list-style-type: none;
+  	font-size: 1.3em;
+  	line-height: 2em;
+  	width: 100%;
+  }
+   h4{
+   	  font-size: 2em;
+   }
+  .container h3{
+  	font-size: 2em;
+  	letter-spacing: 4px;
+  }
+  .float h5{
+  	font-size: 2em;
+  }
+  .float h6{
+     font-size: 1em;
+  }
+  .p{
+  	width: 50%;
+  }
+  .float p{
+  	font-size: 1.3em;
+  	width: 100%;
+  }
+  #step-one{
+  	width: 80px;
+  	position: absolute;
+  	left: -70px;
+  }
+  #step-two{
+  	position: absolute;
+  	left: 350px;
+  	width: 80px;
+  }
+
+  #step-three{
+  	position: absolute;
+  	right: 50px;
+  	width: 80px;
+  }
+  #stp-one{
+  	position: absolute;
+  	left: -70px;
+  	top: 60px;
+  }
+  #stp-two{
+  	position: absolute;
+  	left: 350px;
+  	top: 15px;
+  }
+  #stp-three{
+  	position: absolute;
+  	top: -40px;
+  	right: -30px;
+  }
+ .sign-up p{
+ 	font-size: 1.5em;
+ }
+ #price h2{
+ 	font-size: 2em;
+ }
+ .ad-one{
+ 	float: none;
+ 	width: 100%;
+ }
+ .ad-two{
+ 	float: none;
+ 	width: 100%;
+ }
+ .message{
+ 	width: 100%;
+ }
+}  
+
+@media (max-width: 800px){
+	 
+  #step-two{
+  	position: absolute;
+  	left: 100px;
+  	width: 80px;
+  }
+  #stp-two{
+  	position: absolute;
+  	left: 100px;
+  	top: -10px;
+  }
+}
+
+@media (max-width: 1400px){
+	 #works .container{
+  	width: 100%;
+  }
+  .contents{
+  	width: 20%;
+  	margin: 20px;
+  	margin-left: 70px;
+  }
+}
+@media (max-width: 1000px){
+
+  #step-two{
+  	position: absolute;
+  	left: 300px;
+  	width: 80px;
+  }
+  #stp-two{
+  	position: absolute;
+  	left: 300px;
+  	top: 10px;
+  }
+}
+@media (max-width: 900px){
+
+  #step-one{
+  	position: absolute;
+  	left: 40px;
+  	width: 80px;
+  }
+  #stp-one{
+  	position: absolute;
+  	left: 40px;
+  	top: 60px;
+  }
+     .contents{
+   	float: none;
+   	text-align: center;
+   	width: 100%;
+   	margin-left: 22px;
+   }
+  .contents p{
+	line-height: 1.6em;
+	font-size: 1.6em;
+  }
+
+  ul.contents-ul li{
+  	list-style-type: none;
+  	font-size: 1.4em;
+  	line-height: 2em;
+  	width: 100%;
+}
+.second-heading{
+	margin-left: 60px;
+}
+}
+
+@media (max-width: 700px){
+	#step-one{
+  	position: absolute;
+  	left: 10px;
+  	width: 60px;
+  }
+  #stp-one{
+  	position: absolute;
+  	left: 10px;
+  	top: 60px;
+  }
+  #step-two{
+  	position: absolute;
+  	left: 200px;
+  	width: 60px;
+  }
+  #stp-two{
+  	position: absolute;
+  	left: 200px;
+  	top: 10px;
+  }
+}
+
+@media (max-width: 550px){
+	#step-one{
+  	position: absolute;
+  	left: -70px;
+  	width: 60px;
+  }
+  #stp-one{
+  	position: absolute;
+  	left: -70px;
+  	top: 60px;
+  }
+  #step-two{
+  	position: absolute;
+  	left: 100px;
+  	width: 60px;
+  }
+  #stp-two{
+  	position: absolute;
+  	left: 100px;
+  	top: 10px;
+  }
+  .second-heading{
+  	margin-left: 10px;
+  }
+}
